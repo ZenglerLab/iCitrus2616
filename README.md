@@ -1,14 +1,14 @@
 # iCitrus2522
 Genome Scale Metabolic Model of Citrus clementina
 
-<h1> iCitrus2522.mat </h1>
+<h2> iCitrus2522.mat </h2>
 The <i>Citrus clementina</i> plant model in .mat format.
 
-<h1>json,mat,sbml directories</h1>
+<h2>json,mat,sbml directories</h2>
 The folders contain media specific models in .json, .mat, and .sbml formats
 
-<h1>Supplementary Data</h1>
+<h2>Supplementary Data</h2>
 Contains supplementary files referenced in the paper.
 
-<h1>Source data directory</h1>
+<h2>Source data directory</h2>
 Contains data used in figures
