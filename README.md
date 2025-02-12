@@ -1,7 +1,7 @@
-# iCitrus2522
+# iCitrus2616
 Genome Scale Metabolic Model of Citrus clementina
 
-<h2> iCitrus2522.mat </h2>
+<h2> iCitrus2616.mat </h2>
 The <i>Citrus clementina</i> plant model in .mat format.
 
 <h2>json,mat,sbml directories</h2>
