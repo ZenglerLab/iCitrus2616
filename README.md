@@ -8,6 +8,3 @@ The folders contain media specific models in .json format
 
 <h2>Supplementary Files</h2>
 Contains supplementary files referenced in the paper.
-
-<h2>Source data directory</h2>
-Contains data used in figures
